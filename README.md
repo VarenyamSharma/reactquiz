@@ -1,16 +1,12 @@
+# React Quiz App
 
-### React Todo App README
-
-# React Todo App
-
-A simple todo application built with React that allows users to add, delete, and mark tasks as complete.
+A quiz application built with React that allows users to answer multiple-choice questions and see their scores.
 
 ## Features
 
-- Add new tasks
-- Delete tasks
-- Mark tasks as complete
-- Filter tasks by status
+- Multiple-choice questions
+- Track user scores
+- Display correct answers after submission
 
 ## Technologies Used
 
